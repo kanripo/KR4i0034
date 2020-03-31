@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 餘師錄
-#+DATE: 2020-03-31 11:42:46.469135
+#+DATE: 2020-03-31 11:42:46.531895
 #+PROPERTY: ID KR4i0034
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 0
 <pb:KR4i0034_WYG_000-1a>¶
 　　欽定四庫全書　　　　　集部九¶
